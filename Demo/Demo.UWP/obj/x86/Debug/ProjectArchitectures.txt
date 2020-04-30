@@ -1,0 +1,1 @@
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo.UWP\Demo.UWP.csproj;x86

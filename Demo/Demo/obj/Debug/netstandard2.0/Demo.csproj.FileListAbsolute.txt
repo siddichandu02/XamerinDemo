@@ -1,0 +1,13 @@
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.deps.json
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.pdb
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfo.cs
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.dll
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.pdb
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\CS185304\Downloads\Projects2017\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csprojAssemblyReference.cache
